@@ -24,7 +24,7 @@ This is a responsive personal portfolio website built with **HTML** and **CSS**,
 - SVG icons from:
   - [Devicon](https://devicon.dev/)
   - [Material Design Icons](https://materialdesignicons.com/)
-- Optional: [Pexels](https://www.pexels.com/) for profile photo placeholder
+- [Pexels](https://www.pexels.com/) for profile photo placeholder
 
 
 # 🚀 Webpack + Babel + ESLint + Jest Starter Template
