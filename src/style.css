@@ -113,7 +113,7 @@ html {
 .project-card {
   max-width: 80vw;
   margin-top: 10px;
-  box-shadow: 4px 3px 0.2em 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 4px 3px 1rem 0 rgba(0, 0, 0, 0.15);
   margin-bottom: 10px;
 
   /* outline: 1px solid black; */
@@ -222,7 +222,6 @@ footer .contact {
     box-shadow: 2px 2px 0.8em 0 rgba(0, 0, 0, 0.15);
 
     float: left;
-    width: 300px;
     margin-right: 20px;
     border-radius: 12px;
   }
@@ -252,7 +251,7 @@ footer .contact {
     display: none;
   }
 
-  .socials {
+  header .socials {
     display: none;
   }
 
@@ -263,6 +262,7 @@ footer .contact {
 
   .project-card {
     flex-grow: 1;
+    margin: 10px;
   }
 
   .project-card .scale-container {
